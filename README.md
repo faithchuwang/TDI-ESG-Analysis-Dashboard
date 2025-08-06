@@ -54,7 +54,7 @@ ESG & Financial Performance Data:
 ### Results
 
 - Finance and Technology industries recorded the highest average ESG scores, indicating stronger sustainability performance.
-- Transportation and Energy sectors had the lowest average ESG scores, reflecting weaker ESG practices.
+- The transportation and Energy sectors had the lowest average ESG scores, reflecting weaker ESG practices.
 - Companies with high ESG scores achieved an average profit margin of 12.7%, compared to 10.6% for others.
 - ESG scores increased consistently from 62 in 2015 to 74 in 2025, showing industry-wide improvement in sustainability efforts.
 - Top 5 industries by average revenue included Technology, Finance, and Consumer Goods, contributing significantly to overall revenue performance.
@@ -66,3 +66,8 @@ ESG & Financial Performance Data:
 - Industries with lower ESG scores (e.g., Energy, Transportation) should review their sustainability policies and practices.
 - Companies with low profit margins and low ESG scores may benefit from reassessing governance and operational efficiencies.
 - Continued monitoring of ESG trends is crucial for forecasting long-term financial health and social impact.
+
+### Limitations
+
+- **Anonymous Company Identifiers**: The dataset used coded company names, which limited the ability to perform real-world, company-specific analysis or draw recognizable insights.
+- **Missing Growth Rate Data (2015)**: Growth rate values for the base year (2015) were entirely missing. These were assumed to be zero to maintain analysis consistency, which may slightly affect the interpretation of early-year trends.
