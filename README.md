@@ -15,6 +15,9 @@ Excel Capstone Project analyzing the relationship between ESG metrics and financ
 
 This project analyzes how ESG (Environmental, Social, and Governance) performance relates to financial metrics like profit margin, revenue, and carbon emissions across industries from 2015 to 2025. It was done in Excel using pivot tables and dashboards to uncover trends and insights for sustainable business decisions.
 
+<img width="1663" height="802" alt="ESG DASHBOARD" src="https://github.com/user-attachments/assets/cada2945-117c-4017-b503-1df008e41340" />
+
+
 ### Data Sources
 
 The dataset was provided by The Data Immersed (TDI) Community for the Excel Capstone Project. It includes ESG and financial performance data for 1,000 companies across multiple industries, covering the period from 2015 to 2025.
